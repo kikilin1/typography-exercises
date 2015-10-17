@@ -171,7 +171,7 @@ footer::after{
 }
 imput[type=text]{
     height: 1.8em;
-    border: 1px solid#1d1d1d;
+    border: 1px solid #1d1d1d;
     position: absolute;
     top: 48px;
     right: 10px;
@@ -184,7 +184,8 @@ imput[type=text]{
 imput[type=text]:focus{
     width:20%;
     font-size: 14px;
-    height: 2em;
+  border: 3px solid black;
+
     
 }
 
